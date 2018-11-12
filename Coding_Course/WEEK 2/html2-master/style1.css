@@ -1,0 +1,22 @@
+* {
+  font-family:Calibri;
+}
+
+#about_blue {
+  border: 1px solid #000;
+  background-color: #6495ED;
+  margin-bottom: 20px;
+}
+
+#about_blue ul li {
+  color: blue;
+}
+
+#about_yellow {
+  border: 1px solid #000;
+  background-color: orange;
+}
+
+#about_yellow ul li {
+  color: yellow;
+}

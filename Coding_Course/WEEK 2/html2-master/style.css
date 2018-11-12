@@ -1,0 +1,25 @@
+* {
+   font-family: Calibri;
+}
+h1 {
+   color:red;
+}
+
+p {
+  color: blue;
+}
+
+h2 {
+   color: green;
+   background-color: orange;
+}
+
+ul
+li {
+   background-color: yellow;
+}
+
+ol
+li {
+  background-color: green;
+}
